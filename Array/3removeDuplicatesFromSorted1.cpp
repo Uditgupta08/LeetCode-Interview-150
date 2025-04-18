@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+
 #include <bits/stdc++.h>
 using namespace std;
 int removeDuplicates(vector<int> &a)

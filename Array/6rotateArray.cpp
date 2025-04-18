@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/rotate-array/
+
 #include <bits/stdc++.h>
 using namespace std;
 void rotate(vector<int> &a, int k)

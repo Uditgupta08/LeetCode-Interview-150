@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/h-index/
+
 #include <bits/stdc++.h>
 using namespace std;
 int hIndex(vector<int> &h)
